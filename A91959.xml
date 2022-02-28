@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rombus the moderator: or, The King restored. From whence followes the arraignment of seven incomparable malefactors : with their faults, confessions, and Astræas severe sentence, Rombus his qualifications : the prisoners reprieves, and severall punishments. A certain strange accidentall, aliàs, his Excellenscey [sic] begeting, and a presage of his fortune, with other remarkable passages. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91959</idno>
+            <idno type="STC">Wing R1894</idno>
+            <idno type="STC">Thomason E446_26</idno>
+            <idno type="STC">ESTC R204844</idno>
+            <idno type="EEBO-CITATION">99864302</idno>
+            <idno type="PROQUEST">99864302</idno>
+            <idno type="VID">116529</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116529)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E446[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rombus the moderator: or, The King restored. From whence followes the arraignment of seven incomparable malefactors : with their faults, confessions, and Astræas severe sentence, Rombus his qualifications : the prisoners reprieves, and severall punishments. A certain strange accidentall, aliàs, his Excellenscey [sic] begeting, and a presage of his fortune, with other remarkable passages. ...</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Roundheads --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116529:1"/>
+            <pb facs="tcp:116529:1" rendition="simple:additions"/>
+            <p>
+               <hi>ROMB<g ref="char:V">Ʋ</g>S</hi> The Moderator: <hi>OR,</hi> THE KING Reſtored.</p>
+            <p>From whence followes the Arraign<g ref="char:EOLhyphen"/>ment of ſeven incomparable Malefactors: with their faults, Confeſſions, and <hi>Aſtraeas</hi> ſe<g ref="char:EOLhyphen"/>vere Sentence, <hi>Rombus</hi> his qualifications: The Priſoners reprieves, and ſeverall PUNISHMENTS.</p>
+            <p>A certain ſtrange Accidentall, <hi>aliàs,</hi> his Excellenscey be<g ref="char:EOLhyphen"/>geting, and a preſage of his Fortune, with other remarkable <hi>PASSAGES.</hi>
+            </p>
+            <lg>
+               <l>What Soule could once imagine that theſe Dons</l>
+               <l>Wiſe props of State, ſhould prove ſuch Nebulons,</l>
+               <l>As force <hi>Aſtraea</hi> from her gliſtering Throne,</l>
+               <l>And Heavens diviner Joyes, to wait upon</l>
+               <l>Their mortall crimes; <hi>Rombus;</hi> we all know wept</l>
+               <l>Long ſince, for <hi>Sidneys</hi> death, and thence has kept</l>
+               <l>So ſure a Guard, about his drowzie eyes</l>
+               <l>As none durſt ever wake him, till our cries</l>
+               <l>And Royull CHARLES: whoſe word barres all deniall</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nlock'd his Golden ſlumbers for this Triall.</l>
+               <l>Reader, firſt dreſſe thine eares; then ſtretch them wide</l>
+               <l>To heare <hi>Aſtraea</hi> judge: and <hi>Rombus chide.</hi>
+               </l>
+            </lg>
+            <p>Printed in the Year. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116529:2"/>
+            <pb n="1" facs="tcp:116529:2"/>
+            <head>
+               <hi>ROMB<g ref="char:V">Ʋ</g>S</hi> THE MODERATOR, OR, The King reſtored.</head>
+            <p>BY your leave my Maſters, I had a Mother too, as well as the proudeſt of You. What's here, the <hi>Counter-ſcuffle?</hi> Men at <hi>Tennis</hi> with the Cakes, Creame and Cuſtards of the Kingdom? Are ye all mad? Hold your hands— or by this—I ſhall—ſhal grow angry in earneſt, and then: whsrein lies all our undoings; become indifferent for ever, whither you turne again to your five <hi>Senſes,</hi> or go to <hi>Bealam</hi> for good and all: I ſay again, leave your quarrelling about fiddle-fadles, Triſles of little value. For what's the fillipping down of two or three Kingdomes, or ſo; and look at me. <hi>Rombus</hi> him<g ref="char:EOLhyphen"/>ſelfe preſents his grave preſence for <hi>Moderator,</hi> and proffers to make ye all happy: but then ye muſt be rul'd; leave your ſool<g ref="char:EOLhyphen"/>ing at at blinde man's buffe, and make ſome honeſt uſe of your own eyes. Be Iudges your ſelves, Is it fair play, thinke you, that ſome ſhould run away with all the wit, and others with the money; while I that am Crier of this Court, that weares better cloathes than a Burgeſſe, and conſtantly ſhift a ſhirt once a fort<g ref="char:EOLhyphen"/>night, muſt ſtand idle, without the leaſt particle of a ſhare, &amp; ga<g ref="char:EOLhyphen"/>ping with my finger in my mouth, like a <hi>Corniſh Chough,</hi> which marking Mr. <hi>Aldermans</hi> Ape, my <hi>Lord Maiors</hi> Babcon, and her Ladiſhips Monkey; how they look, and act like men, and yet ſees plainly they are none: he wonders,<note place="margin">The Facti<g ref="char:EOLhyphen"/>on.</note> who the Devil made them ſuch pretty mumping Counterfeits. Well, 'tis decreed this once,
+<pb n="2" facs="tcp:116529:3"/>that the Wits ſhall be pardoned their engroſſing, but the Mo<g ref="char:EOLhyphen"/>ney-maſters muſt fine for it.—Room for the illuſtrious Lady, Divine <hi>Astraea</hi>—A chair for Mr. <hi>Rombus,</hi> Withdraw the Priſoners into the next Room—What lifting up of hands is here? —Ye ſhall have Iuſtice better than ever <hi>Martin</hi> did his Whore; for when he caſts her off ſhe never gets of him due conduct money, to returne her either to honeſty, her health, or hope of ever being good again; but Ye ſhall be provided for— All but <hi>William Lenthall</hi> depart; and Guard, preſent them ſin<g ref="char:EOLhyphen"/>gle, as you hear them call'd.</p>
+            <p>
+               <hi>Rombus</hi> prepares to ſpeak</p>
+            <p>Silence <hi>in the Court,</hi> Tace, tace.</p>
+            <p>Let me uſe the faculties of my long ſilent Tongue, firſt to thee the late Speaker—<hi>Lent all,</hi> Lay down thy Bagges, leave <hi>Luci<g ref="char:EOLhyphen"/>fer</hi> to guard thy Accumulations of Gold, and travell about thy ſilver mountaines: but do thou anſwer me, <hi>Rombus</hi> cals thee to account, and bids thee <hi>Lenthall</hi> to ſpeak on, thou Captain of the Tribe of <hi>Dan,</hi>
+               <note place="margin">
+                  <hi>Rombus</hi> ſpeakes.</note> ſpeak on,—not as formerly for thy Brethren, but not for thy ſelfe—ſo—Thus you that would never ex<g ref="char:EOLhyphen"/>tend favour, deſire it—Come hither Fellow—without theſe tremblings—tell me—from what tap of low-prized drinke did you draw theſe high conceits—To make your ſelfe in a trice (as a man may ſay) as rich as <hi>Craſſus</hi>—as powerfull to do miſchief as a Tribune of the People: and ſwear to ſit no longer in that unfortunate Chaire than while you may be allowed a King for your Cuſhion: you are indited of Treaſon and Extor<g ref="char:EOLhyphen"/>tion: you hired the Souldiers to cut the Citizens throats, for Wine and Money: you are an Atheiſt: and laſtly a principal Contriver with thoſe <hi>Grandees, Beelzebub</hi> and <hi>Cromwell,</hi> about the Kings Enchantment— Is this all? —You ſee Mr, <hi>Lenthal</hi> we have heard you with the patience and temperance of Philoſophers, —and you ſay in general, that a neceſſitie was laid upon you, you muſt needs uſe the benefit of time: And then the ſafeſt and ſhorteſt cut to wealth, in your opinion, was by the way of ſeverall Offices, and taking Bribes: this with the reſt muſt be conſidered of, <hi>Jury</hi> conferre your notes, 'tis paſt ten, I fear the Priſoner faints, he wants his break-faſt: guard him to Hell, his Soul I know is there already; you'l finde (my Friends) whole Heards of <hi>Presbyterian</hi> cattell gra<g ref="char:EOLhyphen"/>zing there; let one of thoſe beaſts be ſacrificed to the appetite of
+<pb n="3" facs="tcp:116529:3"/>this Caniball, your <hi>Independants</hi> are hungry Fellowes, and love that fleſh better than a Banquet.</p>
+            <div type="arraignment">
+               <head>Henery Martin, hold up thy hand.</head>
+               <p>In the name of our Soveraigne Lord the King.<note place="margin">
+                     <hi>Martin</hi> Arraigned.</note> Thou <hi>Henery Martin</hi> art charged to have forſaken the Chriſtian Faith: for like an arrant Pagan, thou haſt committed Idolatry with two of <hi>Homers Gods, Bacchus,</hi> and <hi>Venus:</hi> Thou haſt robb'd the Orchard of <hi>Hesperides,</hi> and tempted Chaſtity with Golden-Apples: Thou careſt not a Nutſhell for the choiceſt Beauties, after thou haſt deflowred them. <hi>Item.</hi> That the cracked Virginities which thou haſt taken for current, and ſo payd for, till they fell in peices under thy uſe, are numberleſſe.—That all thoſe Mobees thou ſeeſt there, ſit weeping in duſt and aſhes, with diſhevelled haire, wry mouthes, and ſnotty noſes: were lately fifteen honeſt Ma<g ref="char:EOLhyphen"/>trons, Wives, young and beautifull, and of a ſweet repors, but now the Trophies of thy Perjury: Tis affirmed upon Oath and Evidence ſufficient, that theſe ſtiffe Chaſtities could never be foyled, till thou ſtruck up their heeles; nor tamed by any charm, till thy fraud mingled with ſome force, layd ſalt upon their tails, and powder'd them in ſo unfortunate a ſeaſon, that they have ſtunk ever ſince. <hi>Item.</hi> That having ſold thoſe rotten Purchaſes thy corrupt Father left thee, thou haſt conſpir'd againſt thy So<g ref="char:EOLhyphen"/>veraigne Lord, and ſeized the Royall Inheritance of Him and his Children, to the uſe of thee, and thy Bagages.—Make an<g ref="char:EOLhyphen"/>ſwer —Iury, obſerve him—Well Sir. You cry guilty too,<note place="margin">His Sub<g ref="char:EOLhyphen"/>miſſion &amp; Apology.</note> yet this in effect is your deſire, that you may be looked upon, as a bold free Member, brim full of Impudence, but not a drop of flattery for any but women: Therefore no Courtier, no hope to thrive that way: Beſides, you plead that Mother <hi>Shipton,</hi> being your great Granam by the Fathers ſide, you could not chuſe ſometimes but conſult with her Propheſies, and then for kin<g ref="char:EOLhyphen"/>dreds ſake, do ſomething for <hi>Anarchy,</hi> which ſhe wiſht well to; leaſt ſay you, that reverend Witch (being ſo neare to me in blood) might have failed me in her Praedictions, and ſo have tainted the whole Family with the loſſe of her own reputation: As for the King, it ſeems you cannot love him for two Reaſons. Firſt, becauſe he takes himſelfe for a better man than you are.</p>
+               <p>And Secondly, by reaſon he did not hang your Father for cheating the Kingdome, from which couſenages, you complain, he derived ſo much wealth as you feare hath brought a Iudge<g ref="char:EOLhyphen"/>ment
+<pb n="4" facs="tcp:116529:4"/>upon his name, and made you his Graceleſſe Sonne fall into lewd courſes—This Tubbe is without a bottome— His Breakfaſt he ſhall finde in Hell, let him partake with <hi>Len<g ref="char:EOLhyphen"/>tall.</hi>
+               </p>
+            </div>
+            <div type="arraignment">
+               <head>Cromwell hold up thy hand.</head>
+               <p>I <hi>Rombus</hi> will not ſtile thee as thy familiars do,<note place="margin">Crumwels <hi>Tryed.</hi>
+                  </note> ſuch as <hi>Au<g ref="char:EOLhyphen"/>licus, Elencticus, Pragmaticus,</hi> or the like, with the Title of <hi>Noll,</hi> or ſometimes King <hi>Noll:</hi> Theſe (although thou mayeſt be con<g ref="char:EOLhyphen"/>fident they love thee) yet value them not, for they are Dwarfes in Epithets, and cannot reach thy height, but I ſhall give it thee. Thou <hi>Phlegon, Gorgon, Tetraegramaeton,</hi> great Patron againſt Mice and Emrauds; thou God of <hi>Ekron,</hi> hear thy mortall Charge: Thou <hi>Oliver</hi> ſtands Indighted for having diſtempe<g ref="char:EOLhyphen"/>ted the State, diſtracted the Church, and poyſoned the whole<g ref="char:EOLhyphen"/>ſome conſtitutions of three flouriſhing Kingdomes. <hi>Item,</hi> Thou didſt ſend the King to that iſle in a Magicall Whirlewinde, and fixt him there till ſome power, above thine, ſhall finiſh his En<g ref="char:EOLhyphen"/>chauntment, and hang thee up like another <hi>Abſolom:</hi> Thou haſt endeavoured to ſupplant thy Generall, towards whom thou art perfideous; that (in imitation of <hi>Julius Caeſar,</hi> whoſe points thou arr not worthy to untruſſe) thou haſt enſlaved the <hi>Senate,</hi> and <hi>London</hi> City, that thy ſelfe might reigne alone, and be per<g ref="char:EOLhyphen"/>petuall Dictator: Thou converſeſt daily with Mackiavels; and for aſſurance that all this may be done, haſt finally given thy ſelfe to the Devill.</p>
+               <p>Guilty or not guilty—'tis well—you know what follows.<note place="margin">
+                     <hi>Crumwell</hi> yeelds and is con<g ref="char:EOLhyphen"/>founded &amp; tilent.</note> Confeſſion,—but indeed Mr. <hi>Crumwel</hi> your Crimes are of ſuch a haughty nature, ſo proud and popular, as would have quarrelled away the very vaile that ſhould pretend to hide them, —Conſort him with his fellow States till the Court riſes, let him eat porridge, Hell is within his juriſdiction, he cannot be unwelcome there, pitch him by <hi>Martin</hi>—</p>
+            </div>
+            <div type="arraignment">
+               <head>Stephen Marſhall hold up thy hand.<note place="margin">Marſhall <hi>Tryed.</hi>
+                  </note>
+               </head>
+               <p>You <hi>Stehpen</hi> are Indited of Treaſon againſt Heaven and Earth: For you drive Religion before you for a <hi>Stalking-horſe,</hi> and change your Opinion touching Church and Government, as we uſe to put Cowes into freſh Paſture, onely for increaſe of Milke:
+<pb n="5" facs="tcp:116529:4"/>You are Seditious, Factious, and a Schiſmatick: You have taught the people to Rebell, expreſly againſt that Text of Scripture that calls <hi>Rebellion like the ſin of Witchcraſt. Item.</hi> That having ſplit your own hope of Heaven upon the Rock of wilfull Perju<g ref="char:EOLhyphen"/>ry, you have likewiſe tempted his Majeſty, by ſundry Inſinua<g ref="char:EOLhyphen"/>tions from litle Learning, and leſſe Honeſty, to doe the like, and ſo make a wrack of himſelfe for ever: That the late <hi>Scotch</hi> Pro<g ref="char:EOLhyphen"/>poſition, of dividing the Church from the Civil Magiſtrate; on whom, ſay they, it ſhall have no dependency: Whereby a grea<g ref="char:EOLhyphen"/>ter Tyranny than Papall is ready to be Introduced; is an Egge of your laying, and onely by you recommended to the <hi>Scots</hi> for hatching. <hi>Item.</hi> That when you went with the Commiſſioners for <hi>Scotland,</hi> you carryed into that Country a ſtrange Pipe with you; ſome affirme it Gold, others Silver; whoſe Muſicke was ſo raviſhing, as rob'd many Miniſters there of their wits; for at the ſound thereof they are ready to daunce naked, run through fire and water; proteſt againſt Parliaments, be of any Religon, and turne Turke, Inpependent, or what you pleaſe, only at your appointment; That you exceed the <hi>Scribes,</hi> and <hi>Phariſes,</hi> not in Righteouſneſſe, but ambition, Covetouſneſſe, and damn'd Hy<g ref="char:EOLhyphen"/>pocriſie; that you are a Wolfe in Sheeps cloathing. <hi>Item.</hi> You were of the Counſell with thoſe that ſent his Majeſty to the Iſle: That you Preach Charity; but never practiſe it: And when they proffer you 4. pound for a raw Sermon of Repetitions, you are never contented with it. <hi>Memorandum,</hi>
+                  <note place="margin">His Father a poore Watchman at <hi>Hunting<g ref="char:EOLhyphen"/>ton:</hi> this is true. <hi>Marſhalls</hi> party Confeſſi<g ref="char:EOLhyphen"/>on, and delatory Anſwer.</note> That you are not to be truſted by any man, for when a Collection was made, of fifty pound for an aged Indigent brother, by your entreaty, from ſe<g ref="char:EOLhyphen"/>verall Churches, you detained more than forty pound of the Money, delivering to the diſtreſſed but ſive; and ſo coſened your own Father, who was the party;—Guilty—or not Guil<g ref="char:EOLhyphen"/>ty —In the Subſtance Guilty, but wronged in the Circum<g ref="char:EOLhyphen"/>ſtances —The Witneſſes ſhall clear it—Let his habitation be in Hell; and his Office to ſay Grace there.—<hi>Oliver</hi> will be proud of his Chaplaine.</p>
+            </div>
+            <div type="arraignment">
+               <head>Rainsborough hold up thy hand.</head>
+               <p>You <hi>Rainsborough,</hi> ſtand Indicted of Felony and Treaſon; of Felony in divers parts of the Kingdome,<note place="margin">Rainsborogh <hi>Indicted.</hi>
+                  </note> during the late Warre; wherein you were obſerved to play the part of a cruell
+<pb n="6" facs="tcp:116529:5"/>Thiefe, and pick up your crummes greedily. <hi>Item.</hi> Having ta<g ref="char:EOLhyphen"/>ken upon you, like another <hi>Phaeton,</hi> to guide thoſe Chariots of the Sea: our Navie: You firſt provoked <hi>Vantrumpe</hi> to fight, and then ſuffered him to beat you handſomely, you running away with ſeverally of the Ships Royall: which were never baffeld before: So that by thy Ignorance and feare, thoſe Invincible Fortifications: and outworkes of the Kingdome were in Ele<g ref="char:EOLhyphen"/>ction to have been taken or ſleighted: <hi>Item</hi> you were carefull of nothing but the Kings eſcape, under which pretence, and ſearch<g ref="char:EOLhyphen"/>ing for Letters, you rifled all ſhips and paſſengers by your Mi<g ref="char:EOLhyphen"/>niſters, that were as very thieves as <hi>Caons;</hi>—Anſwerr to thy Charge:<note place="margin">He yields.</note> Guilty—or not Guilty, The proofes indeed are pregnant, and thy faults manifeſts. Let him ſrolick in Hell with Ieſuit <hi>Marſhall</hi> and the reſt: let their bellies ſwell with barly broth, till the huskes break.—</p>
+               <p>
+                  <hi>Haman</hi>—hold up thy hand. No age hath paralel'd this pro<g ref="char:EOLhyphen"/>digie:<note place="margin">
+                     <hi>Haman</hi> ac<g ref="char:EOLhyphen"/>cus'd.</note> ſince <hi>Judas Iſcariot,</hi> that kil'd his Father, and got his Mother with child: other Subjects Act evills againſt the King being abſent, yet in his preſence they ſpoke him faire, but thou durſt ſleight him to his face: put bolts and barres upon his li<g ref="char:EOLhyphen"/>berty: preſſe him in rude language, (onely Naturall in ſuch a <hi>Cerberus</hi>) to things diſtaſtefull and injurious; limit his walks and Recreations as thou art fancied to be pleas'd, or pettiſh, Letting him further know, that the changes of his Fortune are but the influences of thy ſmiles or frowne: And laſtly, thou haſt laid prophane and violent pawes, upon his ſacred Perſon—</p>
+               <p>Speak—they all ſubmit:<note place="margin">He would faine im<g ref="char:EOLhyphen"/>plore mercy: but cannot ſpeak. His Excel<g ref="char:EOLhyphen"/>lency brought tryall.</note> he trembles every joynt. Away with him too. The Infernall pallace, let him not want Hell broth, Give it him ſcalding hot, and fire enough—ſtring him next <hi>Rainsborough:</hi> A chaine made up of ſuch would be an ex<g ref="char:EOLhyphen"/>cellent bracelet for the Divell.</p>
+               <p>—A Guard for the grand Signeur—<hi>Thomas Fairfax:</hi> Eldeſt ſonne of <hi>Ferdinando Fairfax:</hi> not <hi>Ferd:</hi> the Emperour, nor any of the <hi>Arch-dukes,</hi> but a poore <hi>Iriſh</hi> Baron: and pet<g ref="char:EOLhyphen"/>tie Lord in <hi>Yorkeſhiere.</hi> Stand forth, and heare thy charge— Thou, <hi>Thomas,</hi> art accuſed of deeds darker than the Powder Plot; thy treaſons are ſo hideous that children crye, and dogs fall a barking when they are but nam'd, for thou haſt ſhaken our Land like an Earth-quake; Thou haſt exiled our Peace, bound our Lawes in chaines, Rob'd us of our Eſtates and Liber<g ref="char:EOLhyphen"/>ties;
+<pb n="7" facs="tcp:116529:5"/>and dreſt Religion in fooles a Coat: Thou art joyned in Wedlock with a <hi>Moabitiſh</hi> woman, as very a heathen as thy ſelfe, or the <hi>Babylonian Semiramis;</hi> by which piſſekitching and <hi>Cromwell,</hi> thou art led by the noſe: like <hi>Zimri;</hi> thou haſt con<g ref="char:EOLhyphen"/>ſpired againſt thy Maſter: Thou haſt ſhut up thy Lord in a ſtraight priſon whom thon feedeſt with the bread of Affliction, and like a liberall Gentleman giveſt him his owne teares for drink, while thou thy ſelfe ſhineſt in the Title of his Excellen<g ref="char:EOLhyphen"/>cie, and fareſt deliciouſly every day: In a word: thou and thy Cockatrice are to be forthwith excommunicate: <hi>for you are tur<g ref="char:EOLhyphen"/>ned renegadoes, and you both have denyed the faith;</hi>—Guilty or not Guilty? This is the very Anſwer of old <hi>Adam:</hi> My wife beguiled me, And the Devil, beguiled her. And ſo it ſeemes, you made a ſhift to beguile one another to the end of the Chap<g ref="char:EOLhyphen"/>ter: but here is the firſt part of your puniſhment: That the King being returned to take poſſeſſion of his own Garden, you are both to be throwne out of Paradice for ever: and this to be done immediately—</p>
+            </div>
+            <div type="arraignment">
+               <head>Aſtraea <hi>riſes.</hi>
+               </head>
+               <p>
+                  <hi>Aſtr.</hi> faire and ſoftly goes farre—Maſter <hi>Rombus</hi> you have ſpoken well but unſeaſonably; the faculty of judging is ours. We came from Heaven on purpoſe, and therefore wee proceed and ſay, That having duly weighed the offences of the hainous Malefactours, and pondered the proofes; which being Tranſ<g ref="char:EOLhyphen"/>parent, and Elegant in themſelves, doe ſtill receive a further perſpecuity and brightneſſe from the priſoners owne Confeſſi<g ref="char:EOLhyphen"/>ons. We thus give Sentence.</p>
+               <p>You <hi>Fairfax</hi> that coveted your Soveraigns Glory, ſhall ride like the <hi>Welch</hi> Prince,<note place="margin">
+                     <hi>Aſtraeas</hi> Iudgement. The Priſo<g ref="char:EOLhyphen"/>ners con<g ref="char:EOLhyphen"/>demned: and firſt his Excellency.</note> in the <hi>Engliſh</hi> Chronicles through <hi>Lon<g ref="char:EOLhyphen"/>don</hi> upon a Iade with your face reverſed. A paper Crowne upon your loggerhead, and a Cryer before you; that ſhall proclaime and ſay: <hi>This is he that would needs be honoured in deſpight of God and the King:</hi> you ſhall be thus led to the place of execution, and from thence thrown into another world: <hi>uſque in Infernos:</hi> by extreameſt Torments; none of thy name ſhall ever be ſtiled <hi>Nobilis:</hi> And thy wife ſhall be burnt for a Sorcereſſe, as <hi>Joaene</hi> the rampant puzzel, was in <hi>France.</hi>
+               </p>
+               <p>
+                  <hi>Cromwell, alias Williams,</hi> ſhall dye the ſame death, onely
+<pb n="8" facs="tcp:116529:6"/>with a little qualification of the pompe: his houſe ſhall be made a lakes; The beſt of his name ſhall be a Brewer of ſmall Beer And the biggeſt of his veſſels but a Kilderkin.</p>
+               <p>
+                  <hi>Martin</hi> ſhall be hang'd in chaines, and alive for his preſump<g ref="char:EOLhyphen"/>tion. And none ſuffred to bewaile him, but kitchin queanes, and hedge whores, ſuch as make venery their profeſſion, for to theſe onely he hath been beneficiall.</p>
+               <p>
+                  <hi>Haman</hi> knowes already the height of his owne Gallowes,</p>
+               <p>
+                  <hi>Rainsborough</hi> ſhall be devowr'd by a Whale: in whoſe belly he ſhall live ſo long, and feed ſo much upon ſalt water and her<g ref="char:EOLhyphen"/>rings, that in <hi>fine</hi> he ſhall looſe his humanity, and be turned in<g ref="char:EOLhyphen"/>to a fiſh, called a Porpoiſe, or Sea-hogge.</p>
+               <p>You <hi>Marſhall</hi> ſhall thinke upon your predeceſſor: that falſe And Covetous Apoſtle <hi>Judas,</hi> with whoſe Example, you ſhall be ſo farre in love, that you ſhall doe as he did, firſt hang your ſelfe, and then drop into your own place.</p>
+               <p>Laſt of all: <hi>You Lentall:</hi> ſhall be flead, and have your skin nailed to the ſeat, where by vertue of a falſe Seale, you counter<g ref="char:EOLhyphen"/>feited the Chancellor: and tooke more than double fees, thy Carkas ſhall be buried in a quagmire, And this Inſcrition upon a rotten Poſt adjacent.</p>
+            </div>
+            <div type="arraignment">
+               <head>
+                  <hi>Lentalls</hi> Epipitaph.</head>
+               <lg>
+                  <l>
+                     <hi>A Lawer: Briber, Speaker: Traytor. Maſſe</hi>
+                  </l>
+                  <l>
+                     <hi>Of Independent frawd: A Golden Aſſe</hi>
+                  </l>
+                  <l>
+                     <hi>All quarter here; wrapt up in one poore ſhirt</hi>
+                  </l>
+                  <l>Sic tranſit: <hi>Lentall; Glutted now with dirt.</hi>
+                  </l>
+               </lg>
+               <p>Finally, for thy ſundry wrong judgements, and the reputa<g ref="char:EOLhyphen"/>tion of thy pelfe, thou ſhalt purchaſe for thy ſelfe the Fortune of <hi>Midas,</hi> and thy poſterity ſhall challenge a propriety in Aſſes eares, which ſhall be their Creſt for ever.</p>
+               <p>Theſe Principalls are thus culd out from the reſt, for the ſpe<g ref="char:EOLhyphen"/>ciall uſes ſet downe; And to ſuffer as Grandees: About two, or three hundred of the Inferiour fry, their fellowes are to be hang'd up here, and there, in ſeverall places, to beautifie the Nation, and make the hearts of Good men Glad.—</p>
+               <lg>
+                  <l>Thus having ſmooth'd perplexed <hi>Englands</hi> ſnarles</l>
+                  <l>We mount to Heaven: and reinthroned <hi>CHARLES</hi>
+                  </l>
+                  <l>
+                     <pb n="9" facs="tcp:116529:6"/>
+To his juſt height on Earth: where he ſhall ſit</l>
+                  <l>A Terror to his Foes, that envie it</l>
+                  <l>Let Kings alone with Crownes, and Subjects move</l>
+                  <l>In their owne Spheare: thats duty: prayers and Love.</l>
+               </lg>
+               <p>Ariſtaea <hi>vaniſhes.</hi>
+               </p>
+            </div>
+            <div type="arraignment">
+               <head>Rombus <hi>riſes.</hi>
+               </head>
+               <lg>
+                  <l>Aſtraea <hi>gone: we</hi> Rombus <hi>next ſucceed</hi>
+                  </l>
+                  <l>
+                     <hi>In power to ſave, or make the Priſoners bleed,</hi>
+                  </l>
+                  <l>
+                     <hi>That donne, wee'l weep once more, like tender men</hi>
+                  </l>
+                  <l>
+                     <hi>For peereleſſe</hi> Sydneyes <hi>death: then ſleep agen.</hi>
+                  </l>
+               </lg>
+               <p>Now you generation of Vipers: Have ye not done finely?<note place="margin">
+                     <hi>Rombus</hi> is angry, but pitifull.</note> thinke you to bring up your mothers children to this: What terrible Fellowes were you but lately, when you look'd all as furiouſly as <hi>Holofernes,</hi> before his head fell off, bigger than beares and buls: And now to ſee how ſuddainly the caſe is al<g ref="char:EOLhyphen"/>tred, and all for feare forſooth of a little hanging.—Come hither ye ſnotty noſes, leave your ſniveling, And peg up your hearts, like <hi>Stephen Marſhall: Oliver:</hi> there, and the double Traitor <hi>Haman;</hi> who looke all three, as if they were reſolved to put <hi>Aſtraeas</hi> Sentence in execution, and hang themſelves in ſpight of pardons: the King has referd you entirely to my diſ<g ref="char:EOLhyphen"/>cretion, and whereof one of his predeceſſors hath had proofe, to ſome time, eſpecially in Hamſteed Gardens: Now I conſi<g ref="char:EOLhyphen"/>dering this to be a time rejoyceing for his Majeſties reſtoring and your miſeries, doe thus moderate <hi>Aſtraeas</hi> ſentence, which in juſtice ſhould have falne upon you to your own knowledge.<note place="margin">His quali<g ref="char:EOLhyphen"/>fication with their ſeverall pu<g ref="char:EOLhyphen"/>niſhments.</note>
+               </p>
+               <p>
+                  <hi>You ſhall live:</hi> becauſe you ſubmit, and are ſorrowfull; but you muſt doe your penances; Thats firſt, be ſoundly ſcorched in the hand, All, but <hi>Martin:</hi> for he ſhall be burnt in another place: You <hi>Lentall</hi> ſhall build, at your owne proper Coſt and Charges, an <hi>Hoſpitall</hi> as large as <hi>Suttons,</hi> and endow it with as faire revenues: It ſhall be a refuge for honeſt Cavaliers, lamed or undone in the late Service: You ſhall looſe the reſt of your ſubſtance, which ſhall be divided betwixt his Majeſty and thoſe high-ſuffering Spirits, that would never pay Compoſition mo<g ref="char:EOLhyphen"/>ney, though their Lands flew up and downe like <hi>March</hi> duſt,
+<pb n="10" facs="tcp:116529:7"/>and the Devil took all: ſuch I ſay, as would not yield an inch to thoſe Rats in Corne, or Mice in Cheeſes you Vermine <hi>parliament,</hi> one whole year ye ſhall plead for nothing, and du<g ref="char:EOLhyphen"/>ring that time, be <hi>Trencher-ſcrapers</hi> to the new Societie.</p>
+               <p>You <hi>Martin</hi> ſhall likewiſe purchaſe an ample place,<note place="margin">Harry Martins <hi>pennance.</hi>
+                  </note> with fit allowances, which you ſhall call <hi>The Colledge of Reliefe, and diſcipline for the Sinner</hi> Martin <hi>and his poor Whores:</hi> in which your ſelfe ſhall be cheif Penetenciary; you ſhall faſt three dayes in a Week for Mortification, and upon the other four; when you are permitted to eat ſome Scraps, ſix of thy ſhe-Ty<g ref="char:EOLhyphen"/>gers ſhall be choſen out daily, who ſhall pinch you for an hour without mercy, and if you crie not out thrice, <hi>God ſave King Charles,</hi> your Poſteriours ſhall be viſited by the like number of outragious old Women, whoſe hands ſhall be armed with Rods of Correction, and they ſhall be labour you by turnes; after the manner of the Jewes you ſhall be circumciſed in the fore-skin of your fleſh, that while you are fore, you Viragoes may come upon you with their force, and prevail againſt you, as the two bold Patriarchs <hi>Simeon</hi> and <hi>Levi</hi> did once againſt the <hi>Sichemites;</hi> in ſhort, you ſhall be pared cloſe, that is perfect<g ref="char:EOLhyphen"/>ly eunuched, and ſo be lodged nightly betwixt two handſome Girles, that you may remember your former Exceſſes, and ſigh at your preſent incapacity—This to continue for a year—</p>
+               <p>
+                  <hi>Rainsborow,</hi> you for the firſt halfe year ſhall ſerve as <hi>Swabber</hi> in one of the <hi>Whelpes Royal,</hi> and there receive three hundred ſtripes weekly, with a ſalted Eel, for being ſuch a Puppie, as to skrew your ſelfe into the diſguiſe of a <hi>Vice-Admiral,</hi> conſider<g ref="char:EOLhyphen"/>ing, that if they hide a Fool never ſo much, he will make ſome ſhift to diſcover himſelfe, as you have done ſufficiently. The other ſix Moneths you ſhall be given to ſome honeſt <hi>Boat-ſwain</hi> diſplaced perhaps for drinking the King's Health, he ſhall car<g ref="char:EOLhyphen"/>ry you about the Kingdom for the Terme aforeſaid, and ſhew you for pence a piece—he ſhall call you a <hi>Sea</hi>-Gull—</p>
+               <p>You <hi>Haman</hi> ſhall likewiſe be granted to Captain <hi>Burleigh's</hi> Widow, in part of miſerable amends, to whoſe uſe you for the like time ſhall be dreſt and diſcovered as a very ſtrange thing, in all lineament and outward proportion, a man, but otherwiſe a monſter as ever the jarring Element, when they were ſick, an<g ref="char:EOLhyphen"/>gry, and in Phiſicke, dropt out from their back door, amongſt
+<pb n="11" facs="tcp:116529:7"/>their moſt vile and tainted Excrements: the total of your Eſtate ſhall be ſhared by even and equal portions amongſt the children of that Captain, whom an ignoble death by this ma<g ref="char:EOLhyphen"/>lice, Indignified—</p>
+               <p>
+                  <hi>Marſhal,</hi> though but a thredbare Scholar, that is hardly a <hi>Latiniſt,</hi> you ſhall get paſſe for an old <hi>Grecian,</hi> and be allowed to beg at <hi>Whitehall</hi> gate, your Offences upon your Breaſt in Text Letters, but your recantantation in a ſmall print, behinde you, to ſignifie that your ſorrow in the opinion of many, is but worldly— that you took a wonderfull delight in turning; and that Religion with you hath a long time gone arſeward —your goods ſhall be diſtributed amongſt poor Scholars, to buy Bookes and Sacke, having loitred above three yeares for lacke of imployment, and are now grown lowſie with drink<g ref="char:EOLhyphen"/>ing of <hi>Rot gut</hi> ſirnamed <hi>Sixes:</hi> your name ſhall no more be called <hi>Stephen</hi> but <hi>Simon,</hi> and <hi>Marſhal</hi> be tranſlated into <hi>Ma<g ref="char:EOLhyphen"/>gus</hi> that Conjurer.</p>
+               <p>You <hi>Oliver</hi> ſhall lay down your <hi>Aſſumpſit</hi> of <hi>Cromwell,</hi> and take up your old Fathers, <hi>Williams</hi> is your proper name, and ſo you muſt be called; and as your Deſignes were blacke, ſo ſhall your calling be, for you ſhall fulfill your yeares penance in a Colt-pit, wherein you ſhall become an Anchorite, by day you ſhall dig inceſſantly, and at night call up your ſpirits, with whom you ſhall practice your Conjuration: but a vizard of proof ſhall be clapt upon you, leaſt meeting with that combuſti<g ref="char:EOLhyphen"/>ble Fuel your noſe ſhould ſet it a fire, and ſo kindle as unquench<g ref="char:EOLhyphen"/>able a flame in the bowels of the Earth as you have done already upon her face and your own, you ſhall hew out her lodging in the quarrey, you ſhall be cloathed with your own skin, and your Diet ſhall be Garlicke.</p>
+               <p>And laſtly <hi>Fairfax,</hi> becauſe it was once in your ſole power to have righted your wronged prince, quieted all Troubles, and eſtabliſht an honeſt greatneſſe to your ſelfe, all which you neg<g ref="char:EOLhyphen"/>lected; nay, refuſed being admoniſh'd: your name ſhall there<g ref="char:EOLhyphen"/>fore no more be <hi>Tom,</hi> but <hi>Tony;</hi> and a Fools cap with a button <hi>rampant</hi> ſhall alwayes be your upper Garment and cogniſance; you ſhall undergo the firſt part of <hi>Aſtraeas</hi> ſentence: and when you ride, in ſtead of a Diadem which you aimed at, you ſhall be garniſhed in the feathers of a Gooſe, which ſhall inviron
+<pb n="12" facs="tcp:116529:8"/>your moſt excellent Coxcombe; In the reſt your penance ſhall follow on in the track of your Predeceſſor, <hi>Lambert Simenell,</hi> firſt be ſhewed in the ſtocks thrice a week; next you ſhall be made Comptroller of the black Guard, or chiefe turnebroach: And laſtly, to ſuite a little with the ſoaring of your high thoughts, you ſhall be one of his Majeſties <hi>Faulconers</hi> till your yeare be out: which finiſht, and your eſtates diſpoſed to the pro<g ref="char:EOLhyphen"/>fit of the Malignant party, you ſhall be aſſembled together, to take upon you the faculty of fooling, as you terme it, and be made players in ſpight of your teethes.</p>
+               <p>
+                  <hi>You ſhall be called:</hi>
+                  <note place="margin">The Mag<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>os and Grandees turn'd Players.</note> the ſociety of Goblins; you ſhall pra<g ref="char:EOLhyphen"/>ctice tumbling: picking of pockets, and plackets, with all the Science of <hi>Legerdemaine:</hi> the play you ſhall be alwayes preſent<g ref="char:EOLhyphen"/>ing ſhall be famous, and entitled, <hi>The Engliſh Gipſee, and her damned Crue:</hi> which ſhall be capable of enlargement, for varie<g ref="char:EOLhyphen"/>ty, but never looſe the Tittle.</p>
+               <p>
+                  <hi>Of this Company,</hi> you <hi>Fairfax</hi> ſhall be King: touching whoſe fortune firſt and laſt, <hi>Tradition</hi> renders it thus: In the carnall minute of thy parents quiet copulation,<note place="margin">A ſtrange chance.</note> and engendring thee, a horrible Tempeſt declared ſuddenly, which threatned the <hi>Roome,</hi> and ſo affrighted thy father, that forgetting his wonted method, and diſcreet leiſure at ſuch an Exerciſe, he haſtned the worke, and threw thee into thy mothers lap, with ſo violent an expedition, as ſhe doubted then, leaſt thy tender braine, might be daſht againſt ſome miſtaken veſſell, and ſo crackt, which imparted with a Caldean, and his judgement required, he thus bleſt thy nativity,<note place="margin">The Predi<g ref="char:EOLhyphen"/>ction of an Aſtrolo<g ref="char:EOLhyphen"/>ger: not of the Citie <hi>Lillie:</hi> but a flower of the field.</note> That thou ſhouldſt be coupled with a Ser<g ref="char:EOLhyphen"/>pent, who ſhould poyſon thee not ſo much by a Corporall as an Animal Taint: that thou ſhoulds be martial, alwayes inclining to Rebellion, and in that audaciouſly, bold: perhaps fortunate too, for a few yeares: but never in eſteeme, for valiant, wiſe, nor honeſt: that thou ſhouldſt gather all the luſter of thy Tribe to thy ſelfe: and glitter for a time, but being ſuddenly quenched, thou ſhalt leave none to ſucceed thee in Honour: and the light of thy family ſhall with thy ſelfe be extinguiſht for ever: this is the true Reaſon though kept from thee, why thou art aſpected ſo ghaſtly, and thy actions alwayes without feare or wit.</p>
+               <p>I ſay againe: you <hi>Fairfax:</hi> or by your new and more ſignifi<g ref="char:EOLhyphen"/>cant name <hi>Tony:</hi> of this Company you ſhall be <hi>Rex,</hi> King of the vagabonds; <hi>Oliver</hi> ſhall be your <hi>malus genius,</hi> or evill Coun<g ref="char:EOLhyphen"/>ſellour.
+<pb n="13" facs="tcp:116529:8"/>
+                  <hi>Lentall,</hi> the Prologiſt, and Treaſurer. <hi>Martin,</hi> the Hu<g ref="char:EOLhyphen"/>moriſt, or Mad Lover <hi>Marſhall, Annanias,</hi> or the White De<g ref="char:EOLhyphen"/>vill. <hi>Rainsborough,</hi> the Intelligencer, or Scout. <hi>Hamon,</hi> the Door-Keeper. <hi>Madamoiſeille Fairefax,</hi> the Gipſee, or Stigan Proſerpine. And <hi>Chaloner,</hi> though exempt from publick Trial, ſhall likewiſe paſſe upon his part, and play the Fool egregiouſly, Your Scean ſhall be the banks of <hi>Acheron;</hi> you ſhall Act in Hell, and be bound to fix your Stage there, <hi>from everlaſting, to everlaſting, world without end, Amen.</hi>
+               </p>
+            </div>
+            <div type="speech">
+               <p>VVE have fulfilled our truſt. I that was Servant to Queen <hi>Eliſabeth,</hi> and Sir <hi>Philip Sidneys</hi> immortal Friend, have obeyed King <hi>Charles</hi> in this particular, be you the Gazers here his Subjects as dutifull—ye Mutiners of <hi>London,</hi> that dare fight againſt your King, but never for Him: You that give ſo<g ref="char:EOLhyphen"/>lemne thankes to a murdering party for killing your Brethren, and ſend them Money to increaſe the ſlaughter: You that deli<g ref="char:EOLhyphen"/>ver up your defenſive Chaines, that the Fetters of a true Bond<g ref="char:EOLhyphen"/>age may manacle you and your children; and, being weary of your unworthy Lives, You that offer your throats to be cut, becauſe ye wil not ſee (which your ſelves may eaſily prevent) the rifling of your Bagges by Ruffians,—your fair Wives ſqueezed like Grapes, and your ſelves cornuted to your own faces—You whoſe Eyes have obſerv'd this Miracle of your King's Deliverance—that it came from Heaven, and the dead, without your helpe—You that have ſeen the fall of theſe Miſcreants; that have heard their triall, or ſhall hereafter reade it; for I imagine, ſo famous an Occurrence, will hardly eſcape the Preſſe. To all you <hi>Engliſhmen</hi> my <hi>quondam</hi> Coun<g ref="char:EOLhyphen"/>treymen, I ſpeak to you.</p>
+               <lg>
+                  <l>Behold the price of treaſon, fill your veines</l>
+                  <l>At length with loyal flames, for death and Hell</l>
+                  <l>Feed on a Rebells heart, the high diſdaines</l>
+                  <l>Of Heaven and men are yours; Fooles, now farewell,</l>
+                  <l>Let CHARLES reigne King, bleſſe him for your Reprieves.</l>
+                  <l>And <hi>Rombus</hi> patron of your forfeit Lives.</l>
+               </lg>
+               <trailer>FINI</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
